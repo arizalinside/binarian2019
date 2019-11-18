@@ -1,0 +1,139 @@
+body{
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    height: 100vh;
+
+}
+
+.mainDiv{
+    width: 100%;
+    display: flex;
+    height: 100vh;
+    background: #733572ff; 
+}
+
+.secondDiv-A{
+    width: 50%;
+    height: 100vh;
+    background: white;
+    display: flex;
+    flex-direction: column;
+}
+
+.sDA-A{
+    width: 100%;
+    height: 50vh;
+    background: purple;
+    display: flex;
+    flex-direction: row;
+}
+
+.sDAA-B{
+    width: 50%;
+    height: 100%;
+    background: green;
+}
+
+.sDAA-C{
+    width: 50%;
+    height: 100%;
+    background: red;
+}
+
+.sDA-B{
+    width: 100%;
+    height:50vh;
+    background: white;
+    display: flex;
+    flex-direction: row;
+}
+
+.sDAB-B{
+    width: 50%;
+    height: 100%;
+    background: red;
+}
+
+.sDAB-C{
+    width: 50%;
+    height: 100%;
+    background: green;
+}
+
+.secondDiv-B{
+    width: 50%;
+    height: 100%;
+    background: #733572ff;
+    display: flex;
+    flex-direction: column;
+}
+
+.sDB-A{
+    width: 100%;
+    height: 50vh;
+    background: rgb(77, 7, 77);
+    display: flex;
+    flex-direction: row;
+}
+
+.sDBB-A{
+    width: 50%;
+    height: 100%;
+    background: #bf78de;
+    display: flex;
+    flex-direction: row;
+}
+
+.sDBB-AA{
+    width: 50%;
+    height: 50%;
+    background: purple;
+}
+
+.sDBB-B{
+    width: 50%;
+    height: 100%;
+    background: #bf78de;
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.sDBB-BB{
+    width: 50%;
+    height: 50%;
+    background: purple;
+}
+
+.sDB-B{
+    width: 100%;
+    height: 50vh;
+    background: red;
+    display: flex;
+    flex-direction: row;
+}
+
+.sDBB-BA{
+    width: 50%;
+    height: 100%;
+    background: #bf78de;
+    display: flex;
+    flex-direction: column-reverse;
+}
+
+.sDBB-BC{
+    width: 50%;
+    height: 50%;
+    background: purple;
+}
+
+.sDBB-BC{
+    width: 50%;
+    height: 50%;
+    background: purple;
+}
+.sDBB-C{
+    width: 50%;
+    height: 100%;
+    background: purple;
+}
