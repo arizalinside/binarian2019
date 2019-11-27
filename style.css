@@ -1,0 +1,60 @@
+.item {
+    padding:32px 0px;
+    margin-top:16px;
+    font-size:1.2em;
+    color:white;
+    width:320px;
+    position:relative;
+    left:50%;
+    transform:translateX(-50%);
+    text-align:center;
+    background:white;
+    border-radius:16px;
+  }
+  
+  .item form {
+    text-align:center;
+    width:100%;
+  }
+  
+  .item form label {
+    color:#733572ff;
+  }
+  
+  .item form input {
+    margin:8px;
+    text-align:left;
+    max-width:100%;
+    padding:0 32px;
+    height:40px;
+    border-radius:32px;
+    border:solid 1.4px #733572ff;
+  }
+  
+  input:active {
+    border:none;
+  }
+  
+  .email {
+    margin-bottom:16px;
+  }
+  
+  .label {
+    text-align:left;
+    max-width:100%;
+    padding-left:72px;
+  }
+  
+  .button {
+    margin:16px;
+  }
+  
+  .button button {
+    padding:8px 16px;
+    font-size:1em;
+    background:#733572ff;
+    border:none;
+    border-radius:4px;
+    color:white;
+    text-transform:uppercase;
+  }
